@@ -30,6 +30,7 @@ a{
 .navbar__menu li:hover{
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
+    
 }
 
 @media screen and (max-width: 768px) {
